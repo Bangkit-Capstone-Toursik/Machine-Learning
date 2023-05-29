@@ -1,0 +1,311 @@
+﻿ID,Province,Regency,Category,Name,Price,Rating
+1,Sulawesi Tengah,Banggai,Wisata Alam,Danau Paisu Pok Luk Panenteng,10000,4.7
+2,Sulawesi Tengah,Banggai,Wisata Alam,Pantai Poganda,3000,4.5
+3,Sulawesi Tengah,Banggai,Wisata Alam,Air Terjun Piala,0,4.6
+4,Sulawesi Tengah,Banggai,Wisata Alam,Pulau Dua,50000,4.3
+5,Sulawesi Tengah,Banggai,Wisata Alam,Air Terjun Salodik,2000,4.5
+6,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Pantai Pasir Putih,10000,4.2
+7,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Pantai Kelapa Lima,5000,4.5
+8,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Lambangan Pauno,3000,4.5
+9,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Pantai Oyama,0,4.6
+10,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Pantai Bontolan,3000,4.8
+11,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Air Terjun Pososlalongo,2000,4.5
+12,Sulawesi Tengah,Banggai Kepulauan,Wisata Alam,Pantai Teduang,5000,4.3
+13,Sulawesi Tengah,Donggala,Wisata Alam,Pusat Laut Donggala,10000,4.4
+14,Sulawesi Tengah,Donggala,Wisata Alam,Pantai kulolu,5000,4.3
+15,Sulawesi Tengah,Donggala,Wisata Alam,Pantai Bonebula,2000,4.4
+16,Sulawesi Tengah,Donggala,Wisata Alam,Puncak Tosale,0,4.4
+17,Sulawesi Tengah,Donggala,Wisata Alam,Pantai Boneoge,2500,4.2
+18,Sulawesi Tengah,Morowali,Wisata Alam,Goa Allo,10000,5
+19,Sulawesi Tengah,Morowali,Wisata Alam,Goa Berlian,0,5
+20,Sulawesi Tengah,Morowali,Wisata Alam,Puncak Kayangan Sombori,0,4.6
+21,Sulawesi Tengah,Morowali,Wisata Alam,Pasir Panjang,20000,4
+22,Sulawesi Tengah,Morowali,Wisata Alam,Air Terjun Sakita,0,4.4
+23,Sulawesi Tengah,Morowali,Wisata Alam,Kepulauan Sombori,0,4.7
+24,Sulawesi Tengah,Paringgi Moutong,Sejarah,Tugu Khatulistiwa,0,4.4
+25,Sulawesi Tengah,Paringgi Moutong,Sejarah,Istana Raja Moutong,0,4.2
+26,Sulawesi Tengah,Paringgi Moutong,Wisata Alam,Pantai Tumpapa,10000,4.1
+27,Sulawesi Tengah,Paringgi Moutong,Wisata Alam,Pantai Kucing,5000,4.2
+28,Sulawesi Tengah,Poso,Wisata Alam,Pada Marari,6000,4.5
+29,Sulawesi Tengah,Poso,Wisata Alam,Goa Pamona,10000,4.3
+30,Sulawesi Tengah,Poso,Wisata Alam,Danau Poso,0,4.5
+31,Sulawesi Tengah,Poso,Sejarah,Taman Nasional Lore Lindu,10000,4.4
+32,Sulawesi Tengah,Tojo Una-Una,Wisata Alam,Tanjung Lawaka Ampana,5000,4.5
+33,Sulawesi Tengah,Tojo Una-Una,Wisata Alam,Permandian Malotong,0,4.4
+34,Sulawesi Tengah,Tolitoli,Wisata Alam,Pantai Sabang Tende,5000,4.7
+35,Sulawesi Tengah,Tolitoli,Wisata Alam,Tanjung Sanjangan,0,4
+36,Sulawesi Tengah,Palu,Sejarah,Museum Negeri Palu,3000,4.4
+37,Sulawesi Tengah,Palu,Sejarah,Cagar Budaya Banua Oge,5000,4.3
+38,Sulawesi Tengah,Palu,Sejarah,Monumen Nosarara Nosabatutu,10000,4.5
+39,Sulawesi Tengah,Palu,Wisata Alam,Taman Vatulemo,0,4.4
+40,Sulawesi Tengah,Palu,Sejarah,Gong Perdamaian,10000,4.4
+41,Sulawesi Tengah,Palu,Religi,masjid Apung Arqam Baburahman,0,4.5
+42,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Tebing Apparalang,5000,4.7
+43,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Bira Pasir Putih,10000,4.8
+44,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Pusahelu,0,4.5
+45,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Marumasa,5000,4.4
+46,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Tebing Marumasa Kalibata,5000,4.4
+47,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Panaikang Birayya,5000,4.4
+48,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Kasuso,0,4.4
+49,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Lemo-Lemo,0,4.3
+50,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Mandala Ria,500,4.4
+51,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Samboang,0,4.3
+52,Sulawesi Selatan,Bulu Kumba,Wisata Alam,Pantai Ujung Tiro,5000,4.6
+53,Sulawesi Selatan,Bulu Kumba,Sejarah,Kawasan Adat Kajang Ammatoa,10000,4.7
+54,Sulawesi Selatan,Bantaeng,Wisata Alam,Tribun Pantai Seruni,10000,4.4
+55,Sulawesi Selatan,Bantaeng,Wisata Alam,Air Terjun Bissappu,5000,4.5
+56,Sulawesi Selatan,Bantaeng,Wisata Alam,Wisata Hutan Pinus Rombeng,5000,4.5
+57,Sulawesi Selatan,Jeneponto,Wisata Alam,Air Terjun Tama'lulua,7000,4.5
+58,Sulawesi Selatan,Takalar,Wisata Alam,Pantai Puntondo,15000,4.5
+59,Sulawesi Selatan,Takalar,Wisata Alam,Pantai Barugaya Punaga,15000,4.4
+60,Sulawesi Selatan,Takalar,Wisata Alam,Pantai Bintang Galesong,25000,3.2
+61,Sulawesi Selatan,Takalar,Sejarah,Benteng Sanrobone,0,4.4
+62,Sulawesi Selatan,Sinjai,Sejarah,Benteng Balangnipa,10000,4.3
+63,Sulawesi Selatan,Sinjai,Wisata Alam,Hutan Mangrove Tongke-tongke,5000,4.5
+64,Sulawesi Selatan,Sinjai,Sejarah,Taman Purbakala Batu Pake Gojeng,10000,4.4
+65,Sulawesi Selatan,Gowa,Wisata Alam,Air Terjun Lembanna,3000,4.6
+66,Sulawesi Selatan,Gowa,Wisata Alam,Air Terjun Biroro,5000,4.6
+67,Sulawesi Selatan,Gowa,Wisata Alam,Air Terjun Ketemu Jodoh,10000,4.5
+68,Sulawesi Selatan,Gowa,Wisata Alam,Air Terjun Takapala,10000,4.5
+69,Sulawesi Selatan,Gowa,Wisata Alam,Wisata Malino,5000,4.7
+70,Sulawesi Selatan,Gowa,Wisata Alam,Taman Wisata Holyland Malino,25000,4.4
+71,Sulawesi Selatan,Gowa,Wisata Alam,Raja Ampat Bollangi Gowa,10000,4.6
+72,Sulawesi Selatan,Makasar,Sejarah,Benteng Rotterdam ,5000,4.5
+73,Sulawesi Selatan,Makasar,Wisata Alam,Pantai Losari,0,4.5
+74,Sulawesi Selatan,Makasar,Wisata Alam,Pantai Akkarena,10000,4.2
+75,Sulawesi Selatan,Makasar,Wisata Alam,Pantai Tanjung Layar Putih,5000,4.2
+76,Sulawesi Selatan,Makasar,Religi,Masjid 99 Kubah CPI Makassar,0,4.7
+77,Sulawesi Selatan,Makasar,Religi,Masjid Terapung Amirul Mukminin,0,4.8
+78,Sulawesi Selatan,Makasar,Sejarah,Museum Kota Makassar,0,4.5
+79,Sulawesi Selatan,Makasar,Sejarah,La Galigo Museum,3000,4.4
+80,Sulawesi Selatan,Makasar,Sejarah,Museum Karaeng Pattingalloang,0,4.4
+81,Sulawesi Selatan,Makasar,Sejarah,Museum Balla Lompoa,0,4.5
+82,Sulawesi Selatan,Makasar,Religi,Vihara Girinaga,0,4.8
+83,Sulawesi Selatan,Makasar,Sejarah,Monumen Mandala Pembebasan Irian Barat,0,4.5
+84,Sulawesi Selatan,Makasar,Sejarah,Monumen Korban 40.000 Jiwa,0,4.4
+85,Sulawesi Selatan,Makasar,Sejarah,Kompleks Makam Raja-Raja Tallo,0,4.5
+86,Sulawesi Selatan,Makasar,Religi,Gereja Katedral ,0,4.9
+87,Sulawesi Selatan,Maros,Sejarah,Monumen Cinta Sejati Habibie-Ainun,0,4.6
+88,Sulawesi Selatan,Maros,Wisata Alam,Air Terjun Bantimurung,5000,4.5
+89,Sulawesi Selatan,Maros,Wisata Alam, Karst Rammang Rammang,10000,4.7
+90,Sulawesi Selatan,Maros,Sejarah,Taman Nasional Bantimurung Bulusaraung,5000,4.4
+91,Sulawesi Selatan,Maros,Sejarah,Taman Arkeologi Leang Leang,15000,4.6
+92,Sulawesi Selatan,Maros,Sejarah,Taman Purbakala Sumpang Bita,5000,4.6
+93,Sulawesi Selatan,Barru,Wisata Alam,Air Terjun Celebes Canyon,10000,4.4
+94,Sulawesi Selatan,Barru,Wisata Alam,Taman Wisata Bola Pitue,35000,4.3
+95,Sulawesi Selatan,Barru,Wisata Alam,Pantai Ujung Batu,5000,4.1
+96,Sulawesi Selatan,Barru,Wisata Alam,Dutungan Island,15000,4.5
+97,Sulawesi Selatan,Bone,Wisata Alam,Tanjung Pallette,5000,4
+98,Sulawesi Selatan,Bone,Wisata Alam,Gua Mampu,2000,4.2
+99,Sulawesi Selatan,Sidenreng,Sejarah,Monumen Bambu Runcing Rappang,0,4.4
+100,Sulawesi Selatan,Sidenreng,Sejarah,Monumen Ganggawa,0,4.3
+101,Sulawesi Selatan,Pinrang,Sejarah,Monumen Lasinrang,0,4.5
+102,Sulawesi Selatan,Pinrang,Wisata Alam,Pantai Harapan Ammani,0,4.2
+103,Sulawesi Selatan,Wajo,Sejarah,Kawasan Wisata Attakae Kabupaten Wajo,2000,4.3
+104,Sulawesi Selatan,Luwu,Wisata Alam,Pantai Ponnori,0,4.1
+105,Sulawesi Selatan,Luwu,Wisata Alam,Gunung Latimojong,10000,4.4
+106,Sulawesi Selatan,Luwu,Wisata Alam,Wisata Alam Wai Tiddo,15000,4.6
+107,Sulawesi Selatan,Luwu Utara,Sejarah,Monumen Juang Lesangi,0,4.3
+108,Sulawesi Selatan,Luwu Utara,Wisata Alam,Air Terjun Sarambualla,5000,4.3
+109,Sulawesi Selatan,Tana Toraja,Wisata Alam,Pango-Pango Makale,10000,4.5
+110,Sulawesi Selatan,Tana Toraja,Religi,Patung Yesus Memberkati,0,4.7
+111,Sulawesi Selatan,Tana Toraja,Sejarah,Suaya,5000,4.4
+112,Sulawesi Selatan,Tana Toraja,Sejarah,Tongkonan Karuaya,10000,4.5
+113,Sulawesi Selatan,Tana Toraja,Sejarah,Kuburan Batu Lemo,20000,4.6
+114,Sulawesi Selatan,Tana Toraja,Sejarah,Monumen Patung Lakipadada,0,4.6
+115,Sulawesi Selatan,Tana Toraja,Wisata Alam,Lolai - To' Tombi,15000,4.6
+116,Sulawesi Selatan,Tana Toraja,Sejarah,Museum Ne' Gandeng,10000,4.4
+117,Sulawesi Selatan,Tana Toraja,Sejarah,Objek Wisata - Bori' Kalimbuang,15000,4.6
+118,Sulawesi Selatan,Tana Toraja,Sejarah,Lolai Tongkonan Lempe,15000,4.6
+119,Sulawesi Selatan,Luwu Timur,Wisata Alam,Pantai Ide,0,4.5
+120,Sulawesi Selatan,Luwu Timur,Wisata Alam,Pantai Lemo,0,4.3
+121,Sulawesi Selatan,Luwu Timur,Wisata Alam,Air Terjun Kali Dingin,10000,4.5
+122,Sulawesi Selatan,Luwu Timur,Wisata Alam,Pantai Molino Tapuondau,0,4.5
+123,Sulawesi Utara,Bolaang Mangadow,Wisata Alam,Pantai Batu Pinangut,5000,4.5
+124,Sulawesi Utara,Bolaang Mangadow,Wisata Alam,Tambun Maleo,5000,4.7
+125,Sulawesi Utara,Bolaang Timur,Wisata Alam,Pantai Lolan,5000,4.1
+126,Sulawesi Utara,Bolaang Timur,Wisata Alam,Puncak Tonsile,0,4.5
+127,Sulawesi Utara,Bolaang Timur,Wisata Alam,Danau Moat,5000,4.5
+128,Sulawesi Utara,Minahasa Selatan,Wisata Alam,Pantai Teletabis,0,4.4
+129,Sulawesi Utara,Minahasa Tengara,Wisata Alam,Pantai Lakban Ratatotok,10000,4.4
+130,Sulawesi Utara,Minahasa Tengara,Wisata Alam,Air Konde,10000,4.4
+131,Sulawesi Utara,Minahasa Tengara,Wisata Alam,Pantai Lumintang,10000,4.3
+132,Sulawesi Utara,Minahasa,Wisata Alam,Ranolewo,5000,4.5
+133,Sulawesi Utara,Minahasa,Wisata Alam,Pantai Moinit,0,3.8
+134,Sulawesi Utara,Minahasa,Wisata Alam,Bukit Kasih Kanonag,10000,4.3
+135,Sulawesi Utara,Minahasa,Sejarah,Museum Pinawetengan,0,4.7
+136,Sulawesi Utara,Minahasa,Wisata Alam,Pantai Mahembang,10000,4.5
+137,Sulawesi Utara,Minahasa,Sejarah,Patung Korengkeng Sarapung,0,4.7
+138,Sulawesi Utara,Minahasa,Wisata Alam,Ketama Adventure Park,15000,4.4
+139,Sulawesi Utara,Minahasa,Wisata Alam,Pantai New Triple M,0,4.6
+140,Sulawesi Utara,Minahasa,Wisata Alam,Pantai Tulap,10000,4.7
+141,Sulawesi Utara,Minahasa,Wisata Alam,Pantai Tanjung Tumpaan,3000,4.5
+142,Sulawesi Utara,Minahasa,Sejarah,Makam Pahlawan Tuanku Imam Bonjol,5000,4.6
+143,Sulawesi Utara,Minahasa,Wisata Alam,Air Terjun Kali,3000,4.5
+144,Sulawesi Utara,Minahasa,Wisata Alam,Puncak Tetetana Suluan,1000,4.6
+145,Sulawesi Utara,Tomohon,Wisata Alam,Air Terjun Tumimperas,10000,4.6
+146,Sulawesi Utara,Tomohon,Wisata Alam,Wisata Hutan Pinus Dan Pemandian Air Panas,20000,4.3
+147,Sulawesi Utara,Tomohon,Wisata Alam,Kai'santi Garden,30000,4.4
+148,Sulawesi Utara,Tomohon,Wisata Alam,Mah'watu,10000,4.8
+149,Sulawesi Utara,Tomohon,Wisata Alam,Kentur Mahawu,5000,4.5
+150,Sulawesi Utara,Tomohon,Wisata Alam,Bukit Doa Mahawu,20000,4.7
+151,Sulawesi Utara,Tomohon,Sejarah,Tuur Ma'asering Kumelembuai Tomohon,15000,4.7
+152,Sulawesi Utara,Minahasa Utara,Sejarah,Taman Purbakala Waruga,0,4.6
+153,Sulawesi Utara,Minahasa Utara,Wisata Alam,Pantai Paal,10000,4.6
+154,Sulawesi Utara,Minahasa Utara,Wisata Alam,Kawasan Wisata Pantai Surawaya,0,4.3
+155,Sulawesi Utara,Manado,Wisata Alam,Taman Hutan Raya Gunung Tumpa H. V. Worang,0,4.5
+156,Sulawesi Utara,Manado,Religi,Klenteng Ban Hin Kiong,0,4.6
+157,Sulawesi Utara,Manado,Sejarah,Tugu Lilin,0,4.5
+158,Sulawesi Utara,Manado,Sejarah,Mercusuar Kota Manado,0,4.5
+159,Sulawesi Utara,Manado,Sejarah,UPTD Museum Negeri Propinsi Sulawesi Utara,0,4.2
+160,Sulawesi Utara,Manado,Sejarah,Makatete hills,10000,4.6
+161,Sulawesi Utara,Manado,Religi,Monumen Yesus Memberkati,0,4.7
+162,Sulawesi Utara,Manado,Wisata Alam,Taman Nasional Bunaken,5000,4.6
+163,Sulawesi Utara,Bitung,Sejarah,Tugu Trikora,0,4.3
+164,Sulawesi Utara,Bitung,Wisata Alam,Pantai Kahona,5000,4.3
+165,Sulawesi Utara,Bitung,Wisata Alam,Kebun Binatang Tandurusa,5000,4
+166,Sulawesi Utara,Bitung,Wisata Alam,Pantai Batuangus,10000,4.6
+167,Sulawesi Utara,Bitung,Wisata Alam,Tangkoko National Park,15000,4.5
+168,Sulawesi Tengara,Kendari,Sejarah,Tugu religi kota Kendari,0,4.4
+169,Sulawesi Tengara,Kendari,Wisata Alam,Agrowisata Qurratu'ain,0,4.4
+170,Sulawesi Tengara,Kendari,Sejarah,Tugu Adibahasa,0,4.4
+171,Sulawesi Tengara,Kendari,Wisata Alam,Kebun Raya Kendari,5000,4.4
+172,Sulawesi Tengara,Kendari,Wisata Alam,Pantai Nambo,10000,3.9
+173,Sulawesi Tengara,Kendari,Sejarah,Museum Negeri Provinsi Sulawesi Tenggara,5000,4.2
+174,Sulawesi Tengara,Kolaka Utara,Wisata Alam,Sungai Tamborasi,5000,4.5
+175,Sulawesi Tengara,Kolaka Utara,Wisata Alam,pulau bintang tolala,0,4.2
+176,Sulawesi Tengara,Kolaka Utara,Wisata Alam,Danau Biru,3000,4.2
+177,Sulawesi Tengara,Kolaka Timur,Wisata Alam,Air Terjun Tetewa,5000,4.7
+178,Sulawesi Tengara,Bombana,Wisata Alam,Taman Nasional Rawa Aopa Watumohai,0,4.4
+179,Sulawesi Tengara,Bombana,Wisata Alam,Bukit Teletubbies,0,4.4
+180,Sulawesi Tengara,Kolaka,Wisata Alam,PUNCAK SOROMBIPI,10000,4
+181,Sulawesi Tengara,Kolaka,Wisata Alam,Pantai Indah Kapu,0,4.6
+182,Sulawesi Tengara,Konawe Utara,Wisata Alam,Air Panas Wawolesea,15000,4.2
+183,Sulawesi Tengara,Konawe Utara,Wisata Alam,Laguna Mahumalalang,0,4.8
+184,Sulawesi Tengara,Konawe,Wisata Alam,Puncak Ahuawali,10000,4.6
+185,Sulawesi Tengara,Konawe,Wisata Alam,Pantai Batu Gong Kendari,15000,4.2
+186,Sulawesi Tengara,Konawe,Sejarah,Tugu Adipura,0,4.5
+187,Sulawesi Tengara,Konawe,Wisata Alam,Puncak Ahuawali,10000,4.6
+188,Sulawesi Tengara,Konawe Selatan,Wisata Alam,Bukit Alebo,0,4.3
+189,Sulawesi Tengara,Konawe Selatan,Wisata Alam,Air Terjun Moramo,3000,4.5
+190,Sulawesi Tengara,Konawe Selatan,Wisata Alam,Desa Wisata Namu,50000,4.5
+191,Sulawesi Tengara,Konawe Selatan,Wisata Alam,Air Terjun Tumburano,0,4.5
+192,Sulawesi Tengara,Buton,Wisata Alam,Pantai Koguna,0,4.2
+193,Sulawesi Tengara,Buton,Wisata Alam,Air Terjun Kandawu Ndawuna,5000,4.4
+194,Sulawesi Tengara,Buton,Pendidikan,Benteng Keraton Kesultanan Buton,5000,4.6
+195,Sulawesi Tengara,Buton,Wisata Alam,Pantai Katembe,5000,4.4
+196,Sulawesi Tengara,Buton,Wisata Alam,Wisata Kali Biru,5000,4.4
+197,Sulawesi Tengara,Wakatobi,Wisata Alam,Pantai Wambuliga,0,4.5
+198,Sulawesi Tengara,Wakatobi,Wisata Alam,Puncak Toliamba,0,4.8
+199,Sulawesi Tengara,Wakatobi,Wisata Alam,Goa Air Kontamale,0,4.4
+200,Sulawesi Tengara,Wakatobi,Wisata Alam,Wakatobi Dive Adventure,50000,4.3
+201,Sulawesi Tengara,Wakatobi,Wisata Alam,Pantai Cemara,5000,4.3
+202,Sulawesi Tengara,Wakatobi,Wisata Alam,Taman Budaya Wakatobi,160000,4.4
+203,Sulawesi Tengara,Wakatobi,Religi,Masjid Keraton Liya,0,4.5
+204,Sulawesi Tengara,Wakatobi,Wisata Alam,Pantai Lakota Tomia,0,4.4
+205,Maluku,Maluku Tengah,Sejarah,Fort Belgica,0,4.7
+206,Maluku,Maluku Tengah,Wisata Alam,Pantai Tanjung Kuako,5000,4.3
+207,Maluku,Maluku Tengah,Wisata Alam,Taman Nasional Manusela,5000,4.3
+208,Maluku,Maluku Tengah,Wisata Alam,Pantai Batu Kuda,10000,4.4
+209,Maluku,Maluku Tengah,Wisata Alam,Belut Raksasa Morea,40000,4.3
+210,Maluku,Maluku Tengah,Wisata Alam,Lubang Buaya Morella,2000,4.6
+211,Maluku,Maluku Tengah,Sejarah,Benteng Nassau,,4.3
+212,Maluku,Maluku Tengah,Wisata Alam,Pantai Natsepa,,4.4
+213,Maluku,Maluku Tengah,Sejarah,Cagar Budaya Benteng Amsterdam,20000,4.4
+214,Maluku,Maluku Tengah,Wisata Alam,Batu Layar,0,4.5
+215,Maluku,Maluku Tengah,Wisata Alam,Batu Kapal Lilibooi,5000,4.6
+216,Maluku,Ambon,Wisata Alam,Pantai Pintu Kota Ambon,5000,4.4
+217,Maluku,Ambon,Wisata Alam,Pantai Santai,5000,4.1
+218,Maluku,Ambon,Wisata Alam,Bukit Paralayang,0,4.7
+219,Maluku,Ambon,Wisata Alam,Pantai Liang,,4.4
+220,Maluku,Ambon,Sejarah,Museum Siwalima Maluku,,4.3
+221,Maluku,Ambon,Wisata Alam,Pantai Hukurila,,4.5
+222,Maluku,Ambon,Gereja Protestan,Kompleks Sinode Gereja Protestan ,,4.9
+223,Maluku,Ambon,Sejarah,Taman Pattimura,0,4.5
+224,Maluku,Ambon,Wisata Alam,Pantai Lawena,,4.3
+225,Maluku,Ambon,Sejarah,Benteng Nieuw Victoria,,4.1
+226,Maluku,Maluku Tenggara,Wisata Alam,Goa Air Hawang,5000,4.6
+227,Maluku,Maluku Tenggara,Wisata Alam,Pantai Ngurbloat,5000,4.7
+228,Maluku,Maluku Tenggara,Wisata Alam,Pantai Ngursarnadan,0,4.4
+229,Maluku Utara,Sula,Wisata Alam,Wai Ipa Beach,0,4.5
+230,Maluku Utara,Sula,Wisata Alam,Tanjung Waka ,20000,4.4
+231,Maluku Utara,Pulau Morotai,Sejarah,Army Dock Beach,0,4.5
+232,Maluku Utara,Pulau Morotai,Sejarah,Museum Trikora,20000,4.3
+233,Maluku Utara,Pulau Morotai,Wisata Alam,Pantai Nunuhu,20000,4.6
+234,Maluku Utara,Halmahera Barat,Wisata Alam,Tanjung Rappa Pelangi,0,4.6
+235,Maluku Utara,Halmahera Utara,Wisata Alam,Wisata Air Panas Mamuya,5000,4.4
+236,Maluku Utara,Tidore,Sejarah,Museum Sonyine Malige,5000,3.8
+237,Maluku Utara,Tidore,Sejarah,Benteng Tahula,7000,4.5
+238,Maluku Utara,Tidore,Wisata Alam,Pantai Tugulufa,0,4.4
+239,Maluku Utara,Ternate,Sejarah,Benteng Kalamata,3000,4.4
+240,Maluku Utara,Ternate,Wisata Alam,Danau Ngade,5000,4.5
+241,Maluku Utara,Ternate,Sejarah,Benteng Kastela ,0,4.2
+242,Maluku Utara,Ternate,Wisata Alam,Ternate Landmark,0,4.5
+243,Maluku Utara,Ternate,Wisata Alam,Pantai Kastela,2000,4.1
+244,Maluku Utara,Ternate,Wisata Alam,Danau Tolire,0,4.7
+245,Maluku Utara,Ternate,Wisata Alam,Pantai Jikomalamo ,0,4.6
+246,Maluku Utara,Ternate,Religi,Masjid Raya Al-Munawwar Ternate,0,4.7
+247,Maluku Utara,Ternate,Wisata Alam,Pantai Sulamandaha,0,4.4
+248,Maluku Utara,Ternate,Wisata Alam,Batu Angus,0,4.5
+249,Maluku Utara,Ternate,Sejarah,Benteng Tolukko,5000,4.4
+250,Maluku Utara,Ternate,Sejarah,Museum Kedaton Kesultanan Ternate,0,4.5
+251,Maluku Utara,Ternate,Wisata Alam,Pantai Falajawa,0,4.6
+252,Maluku Utara,Ternate,Wisata Alam,Gunung Gamalama,0,4.4
+253,Papua Barat Daya,Raja Ampat,Wisata Alam,Puncak Harfat (Harun Fatimah) Dapunlol,75000,4.8
+254,Papua Barat Daya,Raja Ampat,Wisata Alam,Danau Ubur Ubur Lenmakana,0,4.5
+255,Papua Barat Daya,Raja Ampat,Wisata Alam,Sawing Rey Raja Ampat,125000,4.5
+256,Papua Barat Daya,Raja Ampat,Wisata Alam,Pasir Timbul Raja Ampat,500000,4.8
+257,Papua Barat Daya,Raja Ampat,Wisata Alam,Cape Kri,10000,4.7
+258,Papua Barat Daya,Raja Ampat,Wisata Alam,Desa Sauwandarek ,100000,4.7
+259,Papua Barat Daya,Sorong,Wisata Alam,Taman Burung Aimas,5000,4
+260,Papua Barat Daya,Sorong,Sejarah,Tugu Pawibili,0,4.2
+261,Papua Barat Daya,Sorong,Wisata Alam,Taman Wisata Alam Sorong,20000,4.4
+262,Papua Barat Daya,Sorong,Religi,Vihara Buddha Jayanti,10000,4.9
+263,Papua Barat Daya,Sorong,Wisata Alam,Pantai Tembok Berlin,20000,4.1
+264,Papua Barat Daya,Sorong,Wisata Alam,Pulau Um,20000,4.5
+265,Papua Barat Daya,Sorong Selatan,Wisata Alam,Sembra River,5000,4.5
+266,Papua Barat Daya,Sorong Selatan,Wisata Alam,Air Terjun Sasnek Sawiat,100000,4.5
+267,Papua Barat,Monokwari Selatan,Wisata Alam,Pantai Dosa,20000,4
+268,Papua Barat,Monokwari Selatan,Wisata Alam,Pantai Bakaro,20000,4.5
+269,Papua Barat,Monokwari Selatan,Wisata Alam,Taman Manneken,5000,4.1
+270,Papua Barat,Monokwari Selatan,Wisata Alam,Gunung Botak Manokwari Selatan,0,4.6
+271,Papua Barat,Teluk Wondama,Wisata Alam,Taman Nasional Teluk Cenderawasih,20000,4.3
+272,Papua Barat,Fakfak,Wisata Alam,Pantai Wayob,0,4.5
+273,Papua Barat,Fakfak,Wisata Alam,Pantai Patawana,20000,4.7
+274,Papua Barat,Fakfak,Wisata Alam,Air Terjun Ubadari,5000,4.8
+275,Papua Barat,Fakfak,Wisata Alam,Pantai Toran ,0,5
+276,Papua Barat,Karimana,Wisata Alam,Teluk Triton Kaimana,20000,4.8
+277,Papua Barat,Karimana,Wisata Alam,Kolam Sisir,20000,4.3
+278,Papua,Biak Numfor,Wisata Alam,Air Terjun Wafsarak ,35000,4.5
+279,Papua,Biak Numfor,Wisata Alam,Air Terjun Karmon ,20000,4.4
+280,Papua,Biak Numfor,Wisata Alam,Telaga Biru,20000,4.6
+281,Papua,Biak Numfor,Wisata Alam,Negeri Dongeng Biak,10000,4.5
+282,Papua,Biak Numfor,Wisata Alam,Pantai Adoki,5000,4.6
+283,Papua,Biak Numfor,Wisata Alam,Wisata Snudi Paradise,0,4.6
+284,Papua,Biak Numfor,Sejarah,Kuburan Tua Padwa,0,4.6
+285,Papua,Yapen,Wisata Alam,Pantai Sarawandori,20000,4.5
+286,Papua,Jayapura,Wisata Alam,Pantai Holtekamp,20000,4.3
+287,Papua,Jayapura,Wisata Alam,Pantai Ciberi Jayapura,0,4.6
+288,Papua,Jayapura,Wisata Alam,Bukit Jokowi,20000,4.4
+289,Papua,Jayapura,Wisata Alam,Pantai Hamadi Jayapura,10000,4.1
+290,Papua,Jayapura,Wisata Alam,Jayapura City Tower,0,4.5
+291,Papua,Jayapura,Wisata Alam,Pantai Khalkote,10000,4.3
+292,Papua,Jayapura,Sejarah,Monumen Douglas Mac Arthur,0,4.5
+293,Papua,Jayapura,Wisata Alam,Pantai Base-G,5000,4.3
+294,Papua,Jayapura,Wisata Alam,Danau Imfote,2000,4.4
+295,Papua,Jayapura,Wisata Alam,Tungku Wiri Hill,0,4.5
+296,Papua,Jayapura,Sejarah,Tugu Salib,0,4.4
+297,Papua Pegunungan,Jawa Wijaya,Wisata Alam,Pasir Putih Wamena,0,4.8
+298,Papua Pegunungan,Jawa Wijaya,Sejarah,Mumi Jiwika,20000,4.2
+299,Papua Pegunungan,Jawa Wijaya,Wisata Alam,Lorentz National Park,0,4.4
+300,Papua Tengah,Mimika,Wisata Alam,Idenberg Lake,5000,4.3
+301,Papua Tengah,Mimika,Wisata Alam,Wisata Baliem Waga Waga,10000,4.7
+302,Papua Tengah,Mimika,Sejarah,Tugu Perdamaian Timika,0,4.3
+303,Papua Tengah,Mimika,Wisata Alam,Ekowisata Hutan Mangrove Pomako,10000,4.2
+304,Papua Selatan,Merauke,Wisata Alam,Taman 1000 Musamus,10000,4.5
+305,Papua Selatan,Merauke,Sejarah,Monumen Kapsul Waktu,0,4.4
+306,Papua Selatan,Merauke,Wisata Alam,Pantai Payum,0,4
+307,Papua Selatan,Merauke,Wisata Alam,Pantai Lampu Satu,5000,4.2
+308,Papua Selatan,Merauke,Wisata Alam,Pantai Wisata Onggaya,20000,4.1
+309,Papua Selatan,Merauke,Sejarah,Tugu 0 KM Merauke - Sabang,0,4.7
+310,Papua Selatan,Merauke,Wisata Alam,Wasur National Park,0,4.1
